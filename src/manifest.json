@@ -1,0 +1,13 @@
+{
+    "name": "Currency Exchange",
+    "short_name": "Currency Exchange",
+    "description": "The currency exchanger is a free web app to help visitors to exchange their currencies across various counter currency.",
+    "start_url": "/",
+    "theme_color": "#039588",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "icons": [
+     
+    ]
+}
